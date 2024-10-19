@@ -4,10 +4,20 @@ obj/
 obj/*
 IntroMinimalApi/obj/
 IntroMinimalApi/obj/*
+/obj/
+/obj/*
+/IntroMinimalApi/obj/
+/IntroMinimalApi/obj/*
 bin/
 bin/*
 IntroMinimalApi/bin/
 IntroMinimalApi/bin/*
 **/bin/
 **/obj/
+/bin/
+/bin/*
+/IntroMinimalApi/bin/
+/IntroMinimalApi/bin/*
+/**/bin/
+/**/obj/
 
