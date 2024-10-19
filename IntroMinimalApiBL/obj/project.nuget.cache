@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kHTmDl/Hrlc=",
+  "dgSpecHash": "qxwQO4BXaVg=",
   "success": true,
   "projectFilePath": "C:\\Users\\willi\\Documents\\Repo\\tempc#\\IntroMinimalApiBL\\IntroMinimalApiBL.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
