@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntroMinimalApiDL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c8e82ab33fa74870ea8014c44141b16c6b9b596")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c78449618039af5329263eaae95350ff18fa3781")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntroMinimalApiDL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntroMinimalApiDL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
