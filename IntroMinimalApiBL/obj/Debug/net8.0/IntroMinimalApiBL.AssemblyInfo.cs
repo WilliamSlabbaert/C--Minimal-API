@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntroMinimalApiBL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c50086480bc30116002f30af7d6338a679b3e6b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77cacce0510bb9a60803f6635d53261f65e18d4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntroMinimalApiBL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntroMinimalApiBL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
