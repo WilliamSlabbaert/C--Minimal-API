@@ -6,3 +6,6 @@ IntroMinimalApi/obj/*
 bin/
 bin/*
 IntroMinimalApi/bin/*
+
+**/bin/
+**/obj/
