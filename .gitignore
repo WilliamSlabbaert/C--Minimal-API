@@ -1,6 +1,8 @@
 # Specify filepatterns you want git to ignore.
 
+obj/
 obj/*
 IntroMinimalApi/obj/*
+bin/
 bin/*
 IntroMinimalApi/bin/*
