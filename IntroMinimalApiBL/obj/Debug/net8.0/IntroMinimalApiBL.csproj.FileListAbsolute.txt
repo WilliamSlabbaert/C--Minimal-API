@@ -1,0 +1,16 @@
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiBL\bin\Debug\net8.0\IntroMinimalApiBL.deps.json
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiBL\bin\Debug\net8.0\IntroMinimalApiBL.dll
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiBL\bin\Debug\net8.0\IntroMinimalApiBL.pdb
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiBL\bin\Debug\net8.0\IntroMinimalApiDL.dll
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiBL\bin\Debug\net8.0\IntroMinimalApiDL.pdb
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiBL\obj\Debug\net8.0\IntroMinimalApiBL.csproj.AssemblyReference.cache
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiBL\obj\Debug\net8.0\IntroMinimalApiBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiBL\obj\Debug\net8.0\IntroMinimalApiBL.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiBL\obj\Debug\net8.0\IntroMinimalApiBL.AssemblyInfo.cs
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiBL\obj\Debug\net8.0\IntroMinimalApiBL.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiBL\obj\Debug\net8.0\IntroMinimalApiBL.sourcelink.json
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiBL\obj\Debug\net8.0\IntroMin.D299CA4E.Up2Date
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiBL\obj\Debug\net8.0\IntroMinimalApiBL.dll
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiBL\obj\Debug\net8.0\refint\IntroMinimalApiBL.dll
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiBL\obj\Debug\net8.0\IntroMinimalApiBL.pdb
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiBL\obj\Debug\net8.0\ref\IntroMinimalApiBL.dll

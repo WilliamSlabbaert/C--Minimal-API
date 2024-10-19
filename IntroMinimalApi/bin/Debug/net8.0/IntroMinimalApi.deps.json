@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "IntroMinimalApi/1.0.0": {
         "dependencies": {
+          "IntroMinimalApiBL": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "8.0.10",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
@@ -72,6 +73,25 @@
             "fileVersion": "6.6.2.401"
           }
         }
+      },
+      "IntroMinimalApiBL/1.0.0": {
+        "dependencies": {
+          "IntroMinimalApiDL": "1.0.0"
+        },
+        "runtime": {
+          "IntroMinimalApiBL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "IntroMinimalApiDL/1.0.0": {
+        "runtime": {
+          "IntroMinimalApiDL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -129,6 +149,16 @@
       "sha512": "sha512-mBBb+/8Hm2Q3Wygag+hu2jj69tZW5psuv0vMRXY07Wy+Rrj40vRP8ZTbKBhs91r45/HXT4aY4z0iSBYx1h6JvA==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.6.2",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+    },
+    "IntroMinimalApiBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IntroMinimalApiDL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
