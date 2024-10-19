@@ -39,3 +39,6 @@ C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApi\bin\Debug\net8.0\IntroMinim
 C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApi\bin\Debug\net8.0\IntroMinimalApiDL.pdb
 C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApi\obj\Debug\net8.0\IntroMinimalApi.sourcelink.json
 >>>>>>> 31f65082907199a3bd67503df64d09f9c6bdcc7f
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApi\bin\Debug\net8.0\Newtonsoft.Json.dll

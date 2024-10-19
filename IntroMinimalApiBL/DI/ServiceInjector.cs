@@ -9,6 +9,6 @@ public static class ServiceInjector
 {
     public static void InjectServices(this IServiceCollection serviceCollection)
     {
-        serviceCollection.AddScoped<INoteService, NoteService>();
+        serviceCollection.AddTransient<INoteService, NoteService>();
     }
 }

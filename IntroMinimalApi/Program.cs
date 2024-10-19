@@ -18,6 +18,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.RegisterNotesEndpoint();
+app.RegisterNotesEndpoint(app.Services);
 app.UseHttpsRedirection();
 app.Run();
