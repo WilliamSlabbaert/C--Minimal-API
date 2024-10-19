@@ -2,10 +2,12 @@
 
 obj/
 obj/*
+IntroMinimalApi/obj/
 IntroMinimalApi/obj/*
 bin/
 bin/*
+IntroMinimalApi/bin/
 IntroMinimalApi/bin/*
-
 **/bin/
 **/obj/
+
