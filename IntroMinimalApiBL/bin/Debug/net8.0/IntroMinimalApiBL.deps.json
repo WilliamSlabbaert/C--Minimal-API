@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IntroMinimalApiBL/1.0.0": {
+        "dependencies": {
+          "IntroMinimalApiDL": "1.0.0"
+        },
+        "runtime": {
+          "IntroMinimalApiBL.dll": {}
+        }
+      },
+      "IntroMinimalApiDL/1.0.0": {
+        "runtime": {
+          "IntroMinimalApiDL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntroMinimalApiBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IntroMinimalApiDL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

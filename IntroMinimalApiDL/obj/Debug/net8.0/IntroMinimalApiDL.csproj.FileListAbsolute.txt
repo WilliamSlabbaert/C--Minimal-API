@@ -1,0 +1,12 @@
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiDL\bin\Debug\net8.0\IntroMinimalApiDL.deps.json
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiDL\bin\Debug\net8.0\IntroMinimalApiDL.dll
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiDL\bin\Debug\net8.0\IntroMinimalApiDL.pdb
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiDL\obj\Debug\net8.0\IntroMinimalApiDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiDL\obj\Debug\net8.0\IntroMinimalApiDL.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiDL\obj\Debug\net8.0\IntroMinimalApiDL.AssemblyInfo.cs
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiDL\obj\Debug\net8.0\IntroMinimalApiDL.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiDL\obj\Debug\net8.0\IntroMinimalApiDL.sourcelink.json
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiDL\obj\Debug\net8.0\IntroMinimalApiDL.dll
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiDL\obj\Debug\net8.0\refint\IntroMinimalApiDL.dll
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiDL\obj\Debug\net8.0\IntroMinimalApiDL.pdb
+C:\Users\willi\Documents\Repo\tempc#\IntroMinimalApiDL\obj\Debug\net8.0\ref\IntroMinimalApiDL.dll
